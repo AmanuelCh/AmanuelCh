@@ -1,4 +1,8 @@
-### Hi, I'm Amanuel 👋
+<p align="center">
+  <img src="https://github.com/AmanuelCh/AmanuelCh/blob/main/assets/amanuel.gif" />
+</p>
+
+## Hi, I'm Amanuel 👋
 ---
 
 #### I'm a Full-Stack Developer.
@@ -11,3 +15,23 @@
 - 📫 Reach me at: <a href="https://t.me/sozoFe">Telegram</a> or amanuelchaka2@gmail.com
 - 💜 Interests: watching movies - especially thought-provoking or action-packed ones, geeking out on computer stuff and trying to find those sneaky vulnerabilities
 - 😄 Passionate about building projects that are minimal and accessible
+
+##### Some of my favorite open source projects
+
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/microsoft/vscode)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
+##### Wanna hear a fun fact?
+<!-- wi*quL3fcV -->
+
+```javascript
+console.log('Why did the JavaScript developer go broke?')
+
+>>>  Because he used up all his cache.
+
+console.log('Happy Coding 😉')
+```
