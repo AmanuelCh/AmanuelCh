@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/AmanuelCh/AmanuelCh/blob/main/assets/amanuel.gif" />
+<p align="left">
+  <img src="https://github.com/AmanuelCh/AmanuelCh/blob/main/assets/amanuel.gif" width="500" height="500" />
 </p>
 
 ## Hi, I'm Amanuel 👋
