@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Amanuel Chaka</h1>
-<h3 align="center">💻 Penetration Tester • Malware Dev • SOC Enthusiast</h3>
+<h3 align="center">Malware Dev • SOC Enthusiast</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,go,react,typescript,nextjs,c,github,git" alt="Skills" />
@@ -66,7 +66,3 @@
   <a href="https://medium.com/@amanuelchaka2"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 </p>
-
----
-
-> Better to fail while trying to achieve something extraordinary, than to succeed at something ordinary.
