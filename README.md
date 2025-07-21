@@ -6,12 +6,12 @@
 <h3 align="center">Malware Dev • SOC Enthusiast</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,go,react,typescript,nextjs,c,github,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,go,react,typescript,nextjs,svelte,graphql,electron,c,github,git" alt="Skills" />
 </p>
 
 ---
 
-### 🧰 About Me
+### About Me
 
 - Passionate about blue teaming and offensive security  
 - Exploring **malware development** and **SOC automation**  
@@ -23,27 +23,30 @@
 ### Core Stack
 
 - **Languages**: Python, Bash, PowerShell, Go, C, TypeScript  
-- **Tech**: Linux, React, Next.js  
+- **Tech**: Linux, React, Next.js, Svelte, Electron, GraphQL 
 - **Cyber Focus**: SOC, Malware, Recon, Red Team Automation  
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔎 [**Dork Generator**](https://github.com/AmanuelCh/dork-generator) | Create powerful Google dorks with custom rules or AI assistance | React/TS |
-| 🔗 [**Link Preview**](https://github.com/AmanuelCh/linkpreview) | Tiny Go package for generating rich link previews | Go |
-| 🧰 [**Pentest Toolbox**](https://github.com/AmanuelCh/pentest-toolbox) | Curated list of top open-source tools for offensive security | React/TS |
-| 🔓 [**ZIP Password Cracker**](https://github.com/AmanuelCh/zip-password-cracker) | Brute-force tool to crack ZIP files using dictionaries | Python |
-| 🌐 [**Whois Domain Lookup**](https://github.com/AmanuelCh/whois-domain-lookup) | Simple tool to perform Whois lookups on domain names | NextJs |
-| 📊 [**Git Bit**](https://github.com/AmanuelCh/git-bit) | Get byte-sized info for any GitHub repo | React/TS |
+| [**Dork Generator**](https://github.com/AmanuelCh/dork-generator) | Create powerful Google dorks with custom rules or AI assistance | React/TS |
+| [**Initia**](https://github.com/AmanuelCh/Initia) | Custom bootloader written in C  | C |
+| [**Link Preview**](https://github.com/AmanuelCh/linkpreview) | Go package for generating rich link previews | Go |
+| [**Pentest Toolbox**](https://github.com/AmanuelCh/pentest-toolbox) | Curated list of top open-source tools for offensive security | React/TS |
+| [**branch-flow**](https://github.com/AmanuelCh/branch-flow) | CLI tool to visualize directory structures as a tree with customizable features | Python |
+| [**ZIP Password Cracker**](https://github.com/AmanuelCh/zip-password-cracker) | Brute-force tool to crack ZIP files using dictionaries | Python |
+| [**Whois Domain Lookup**](https://github.com/AmanuelCh/whois-domain-lookup) | Simple tool to perform Whois lookups on domain names | NextJs |
 
-> *I build tools I wish existed.*
+I got other cool projects [here too](https://github.com/AmanuelCh?tab=repositories).
+
+> *I build tools I wish existed or re-invent the wheel for a better wheel.*
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmanuelCh&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
